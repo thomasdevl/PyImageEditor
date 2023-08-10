@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Run the `v2.py` script to start the photo editor app.
+1. Run the `mainV2.py` script to start the photo editor app.
 2. Load an image using the "Upload Image" button.
 3. Use the buttons and sliders to edit the image as desired.
 4. Press the "Undo Last Change" button to revert to the last saved state.
